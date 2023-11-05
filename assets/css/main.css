@@ -2289,7 +2289,11 @@ button:active,
 	line-height: 1.75em;
 }
 
+<<<<<<< HEAD
 #nav ul li a:active { /*needs to toggle when on page IN JS*/
+=======
+#nav ul li a:active {
+>>>>>>> e608ad7c4b5456b3954590d046c902822b802195
 	background: rgba(0, 0, 0, 0.15);
 	box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
 	color: #fff;
