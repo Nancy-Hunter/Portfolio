@@ -3,7 +3,7 @@
 <h1 align="center">Learn more about me from my portfolio</h1>
 
 
-<p align="center"><a href="https://nancy-hunter.netlify.app/">CLICK HERE</a></p>
+<p align="center"><a href="https://nancy-hunter.netlify.app/" target="_blank">CLICK HERE</a></p>
 
 reach me at **hunternancym@gmail.com**
 
